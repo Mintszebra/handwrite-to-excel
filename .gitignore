@@ -1,0 +1,14 @@
+
+.venv/
+venv/
+env/
+
+*.xlsx
+*.csv
+sample.jpg
+
+__pycache__/
+*.pyc
+
+.env
+secrets.toml
